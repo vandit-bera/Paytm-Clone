@@ -58,7 +58,7 @@
 
 ---
 
-#### Project Link: [https://github.com/vandit-bera/Paytm-Clone](https://github.com/vandit-bera/Paytm-Clone)
+#### Project Link: [GitHub](https://github.com/vandit-bera/Paytm-Clone)
 
 ---
 
