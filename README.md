@@ -29,7 +29,7 @@
 
 ### 👇Live Demo
 
-[Link](https://vb-paytm-clone.netlify.app/)
+[Link](https://vb-pytm-clone.netlify.app/)
 
 ---
 
